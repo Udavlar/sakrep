@@ -1,0 +1,15 @@
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\obj\Debug\net6.0\sol1_5.csproj.AssemblyReference.cache
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\obj\Debug\net6.0\sol1_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\obj\Debug\net6.0\sol1_5.AssemblyInfoInputs.cache
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\obj\Debug\net6.0\sol1_5.AssemblyInfo.cs
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\obj\Debug\net6.0\sol1_5.csproj.CoreCompileInputs.cache
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\bin\Debug\net6.0\sol1_5.exe
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\bin\Debug\net6.0\sol1_5.deps.json
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\bin\Debug\net6.0\sol1_5.runtimeconfig.json
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\bin\Debug\net6.0\sol1_5.dll
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\bin\Debug\net6.0\sol1_5.pdb
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\obj\Debug\net6.0\sol1_5.dll
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\obj\Debug\net6.0\refint\sol1_5.dll
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\obj\Debug\net6.0\sol1_5.pdb
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\obj\Debug\net6.0\sol1_5.genruntimeconfig.cache
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_5\obj\Debug\net6.0\ref\sol1_5.dll
