@@ -1,0 +1,15 @@
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\bin\Debug\net6.0\sol1_11.exe
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\bin\Debug\net6.0\sol1_11.deps.json
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\bin\Debug\net6.0\sol1_11.runtimeconfig.json
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\bin\Debug\net6.0\sol1_11.dll
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\bin\Debug\net6.0\sol1_11.pdb
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\obj\Debug\net6.0\sol1_11.csproj.AssemblyReference.cache
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\obj\Debug\net6.0\sol1_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\obj\Debug\net6.0\sol1_11.AssemblyInfoInputs.cache
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\obj\Debug\net6.0\sol1_11.AssemblyInfo.cs
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\obj\Debug\net6.0\sol1_11.csproj.CoreCompileInputs.cache
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\obj\Debug\net6.0\sol1_11.dll
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\obj\Debug\net6.0\refint\sol1_11.dll
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\obj\Debug\net6.0\sol1_11.pdb
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\obj\Debug\net6.0\sol1_11.genruntimeconfig.cache
+C:\Users\DEXP\Desktop\sakrep\sol1\sol1_11\obj\Debug\net6.0\ref\sol1_11.dll
